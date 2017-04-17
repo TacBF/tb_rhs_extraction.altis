@@ -1,0 +1,49 @@
+// RES - Russian
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"rhs_chdkz_uniform_5", {__ICE_gear_allRoles}},
+	{"rhs_chdkz_uniform_4", {__ICE_gear_allRoles}},
+	{"rhs_chdkz_uniform_3", {__ICE_gear_allRoles}},
+	{"rhs_chdkz_uniform_2", {__ICE_gear_allRoles}},
+	{"rhs_chdkz_uniform_1", {__ICE_gear_allRoles}},
+		
+	// Sniper
+	{"U_I_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_I_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_I_FullGhillie_sard", {__ICE_gear_Sniper}},
+	
+	// Diver
+	{"U_I_Wetsuit", {__ICE_gear_Diver}},
+
+// VESTS
+	
+	// Infantry
+	{"rhs_6sh92", {__ICE_gear_Inf}},
+	{"rhs_6sh92_vog", {__ICE_gear_Grenadier}},
+	{"rhs_6sh92_radio", {__ICE_gear_SL}},
+	
+	// Sniper/Pilot/Crewman
+	{"rhs_vydra_3m", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+	
+	// Diver	
+	{"V_RebreatherIA", {__ICE_gear_Diver}},
+
+// HELMETS
+	
+	// Infantry
+	{"H_Shemag_khk", {__ICE_gear_allRoles}},
+	{"H_Shemag_olive", {__ICE_gear_allRoles}},
+	{"H_Shemag_tan", {__ICE_gear_allRoles}},
+	{"rhs_6b27m_green", {__ICE_gear_allRoles}},
+	
+	// Crewman	
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+	
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}}
+};

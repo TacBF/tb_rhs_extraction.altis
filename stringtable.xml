@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Defiance">
+
+	<Key ID="STR_TB_missionTitle_TB_Defiance">
+		<Original>Defiance</Original>
+		<English>Defiance</English>
+		<German>Defiance</German>
+		<Italian>Defiance</Italian>
+		<Spanish>Defiance</Spanish>
+		<French>Defiance</French>
+		<Czech>Defiance</Czech>
+		<Russian>Defiance</Russian>
+		<Polish>Defiance</Polish>
+		<Hungarian>Defiance</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
